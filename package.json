@@ -1,0 +1,15 @@
+{
+  "name": "super-mario-bros",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "serve ./public",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gabriel Alves Cunha",
+  "license": "MIT",
+  "dependencies": {
+    "serve": "^11.3.0"
+  }
+}
